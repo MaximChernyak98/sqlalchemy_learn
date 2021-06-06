@@ -8,6 +8,8 @@
 .DS_Store
 /allure-results
 settings.json
+users_list.py
+base_path.py
 
 
 .cache
